@@ -1,3 +1,6 @@
+Los pilares de la tierra
+La casa de bernarda alba
+Entrevisillos
 Juego de Tronos
 El Juego de Ender
 La Historia Interminable
@@ -32,4 +35,6 @@ Lapvona
 El código Da Vinci
 El Ángel De La Ciudad
 El cuco de Cristal
-
+Libro_1
+Libro_2
+Libro_3
