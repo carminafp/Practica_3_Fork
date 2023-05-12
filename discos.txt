@@ -1,3 +1,6 @@
+Disco 1
+Disco 2
+Disco 3
 The Beatles
 Ella & Louis
 Jagged Little Pill
