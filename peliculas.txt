@@ -35,3 +35,6 @@ Suzume
 Pelicula_1
 Pelicula_2
 Pelicula_3
+Tiburón
+Buscando a Nemo
+Cars 2
